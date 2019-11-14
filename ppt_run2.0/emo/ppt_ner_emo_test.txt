@@ -1,0 +1,100 @@
+心 O
+情 O
+很 B-EMO
+差 I-EMO
+
+一 O
+整 O
+天 O
+心 O
+情 O
+都 O
+很 B-EMO
+好 I-EMO
+
+最 O
+近 O
+情 O
+绪 O
+很 B-EMO
+焦 I-EMO
+虑 I-EMO
+
+弟 O
+弟 O
+受 O
+伤 O
+了 O
+， O
+我 O
+很 B-EMO
+难 I-EMO
+过 I-EMO
+
+心 O
+情 O
+早 O
+上 O
+好 B-EMO
+， O
+晚 O
+上 O
+坏 B-EMO
+
+我 O
+的 O
+心 O
+情 O
+很 B-EMO
+激 I-EMO
+动 I-EMO
+， O
+明 O
+天 O
+就 O
+要 O
+离 O
+开 O
+了 O
+
+生 O
+活 O
+总 O
+是 O
+处 O
+处 O
+给 O
+人 O
+惊 B-EMO
+喜 I-EMO
+
+爷 O
+爷 O
+的 O
+一 O
+手 O
+好 O
+菜 O
+， O
+让 O
+我 O
+喜 B-EMO
+悦 I-EMO
+
+心 O
+情 O
+很 B-EMO
+糟 I-EMO
+， O
+很 B-EMO
+糟 I-EMO
+
+我 O
+的 O
+情 O
+绪 O
+起 O
+伏 O
+非 O
+常 O
+大 O
